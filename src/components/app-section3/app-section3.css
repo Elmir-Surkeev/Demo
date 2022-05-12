@@ -1,0 +1,98 @@
+.boxes{
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box{
+    width: 330px;
+    height: 750px;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.box-dedicated{
+    width: 330px;
+    height: 750px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 2px solid #F53838;
+}
+.box-img{
+    display: flex;
+    justify-content: center;
+    margin: 48px auto;
+    width: 144px;
+    height: 160px;
+    box-sizing: border-box;
+    background: url(./app-section3-img/box.png);
+    background-repeat: no-repeat;
+}
+.box-title{
+    font-family: 'Rubik';
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+}
+.box-characters{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 190px;
+    height: 150px;
+}
+.box-characters_{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+}
+.good2{
+    width: 13px;
+    height: 10px;
+    box-sizing:border-box;
+    background: url('./app-section3-img/good2.png');
+    background-repeat: no-repeat;
+    margin-right: 17px;
+}
+.box-text{
+    color: #4f5665;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 32px;
+}
+.box-price{
+    margin-top: 110px;
+    font-family: 'Rubik';
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+}
+.price-right{
+    font-weight: 350;
+    font-size: 25px;
+    color: grey;
+}
+.box-btn{
+    text-align:center;
+    margin-top: 20px;
+}
+.box-btn button{
+    background-color: inherit;
+    border: 2px solid #F53838;
+    box-sizing: border-box;
+    border-radius: 50px;
+    width: 170px;
+    height: 45px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #F53838;
+    line-height: 19px;
+}
+.dedicated button{
+    background-color: #F53838; 
+    color: white;
+}

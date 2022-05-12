@@ -1,0 +1,14 @@
+.map{
+    margin:150px auto 0px auto;
+    background: url('./app-banner-img/map.png');
+    width: 1060px;
+    height: 530px;
+    box-sizing: border-box;
+}
+.sponsors{
+    margin:5px auto 0px auto;
+    width: 1130px;
+    height: 200px;
+    background: url('./app-banner-img/Sponsored.png');
+    background-repeat: no-repeat;
+}

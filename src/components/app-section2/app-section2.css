@@ -1,0 +1,61 @@
+button{
+    border: 0;
+  }
+  .section2{
+      margin-top: 50px;
+      display: flex;
+      justify-content: space-between;
+      width: 107%;
+      flex-wrap: wrap;
+  }
+  .section__left2{
+      font-family: 'Rubik';
+      font-style: normal;
+      font-weight: 500;
+      line-height: 70px;
+      display: flex;
+      justify-content: flex-start;
+  }
+  .section2__left h2{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+  }
+  .section__left2 h5{
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+  }
+  .section2__right{
+      background-image: url('./app-section2-img/Illustration.png');
+      width: 611px;
+      height: 382px;
+      background-repeat: no-repeat;
+  }
+  .section2__left_mark{
+      padding: 5px 0;
+      display: flex;
+      flex-wrap: wrap;
+      width: 207px;
+  }
+  .section2__left_mark_ico{
+      box-sizing: 20px;
+      background: url('./app-section2-img/good.png');
+      width: 20px;
+      height: 20px;
+  }
+  .section2__left_mark_desk{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: -4px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    color: grey;
+    font-size: 14px;
+    line-height: 30px;
+  }

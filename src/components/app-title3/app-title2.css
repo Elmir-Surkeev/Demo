@@ -1,0 +1,19 @@
+.title2{
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 50px;
+}
+.title_under{
+    margin-top: 15px;
+    text-align: center;
+    color: #4F5665;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+}

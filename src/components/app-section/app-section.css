@@ -1,0 +1,51 @@
+.sectionn{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+    box-shadow: 0px 0px 91px 30px rgba(50, 84, 109, 0.2);
+    border-radius: 10px;
+    height: 180px;
+    align-items: center;
+}
+.section__d{
+    display: flex;
+    justify-content: space-around;
+
+}
+.section_ico{
+    margin-top: 2px;
+    margin-right: 20px;
+    background-color: #FFECEC;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.user{
+    background-image: url('./app-section-img/Vector0.png');
+}
+.location{
+    background-image: url('./app-section-img/Vector.png');
+}
+.server{
+    background-image: url('./app-section-img/Vector2.png');
+}
+.borders{
+    border-right: 2px solid #EEEFF2;
+    border-left: 2px solid #EEEFF2;
+}
+.amount{
+    font-family: 'Rubik';
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 30px;
+}
+.name{
+    color: #4F5665;
+    font-family: 'Rubik';
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 30px;
+}
