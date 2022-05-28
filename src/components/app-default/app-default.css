@@ -1,0 +1,12 @@
+.default-section h1{
+    width: 100%;
+    height: 140px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.default-section h2{
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+    background-color: rgb(188, 184, 184);
+}

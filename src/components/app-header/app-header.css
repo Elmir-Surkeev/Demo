@@ -67,3 +67,8 @@ span{
     box-sizing: border-box;
     border-radius: 50px;
 }
+.nav .active ul a li{
+    cursor: pointer;
+    color: red;
+    
+}

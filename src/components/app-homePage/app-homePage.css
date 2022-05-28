@@ -1,0 +1,9 @@
+.house{
+    margin: 0 auto;
+    padding: 0px;
+    margin: 0px;
+}
+.active a{
+    font-weight: bold;
+    color: red;
+}

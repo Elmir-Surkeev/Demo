@@ -1,4 +1,4 @@
-import './app-section.css'
+import './app-sectionn.css'
 
 const FirstSection = () => {
     return(
